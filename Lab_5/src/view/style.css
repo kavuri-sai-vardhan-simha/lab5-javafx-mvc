@@ -1,0 +1,29 @@
+/* User registration styles - @author simha */
+
+.root-pane {
+    -fx-background-color: #f4f6f8;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 13px;
+}
+
+.title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2e7a5f;
+}
+
+.error-label {
+    -fx-text-fill: #c62828;
+    -fx-font-size: 11px;
+}
+
+.error-field {
+    -fx-border-color: #c62828;
+    -fx-border-radius: 3;
+}
+
+.primary-button {
+    -fx-background-color: #2e7a5f;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
